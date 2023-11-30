@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RASPBERRY_PI_PICO_W")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/PICO_W/RASPBERRY_PI_PICO_W.lib")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB")(type "Legacy")(uri "/home/anton/Projects/KiCadLibraries/SM04B-SRSS-TB/SM04B-SRSS-TB.lib")(options "")(descr ""))
+)

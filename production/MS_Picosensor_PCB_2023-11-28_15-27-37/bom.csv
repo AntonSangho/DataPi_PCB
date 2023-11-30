@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,
+"J1, J2",PinSocket_1x20_P2.54mm_Vertical,2,Conn_01x20_Socket,
+J3,PinSocket_1x04_P2.54mm_Horizontal,1,Conn_01x06_Socket,
+J4,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,Conn_01x02_Socket,
+J5,PinHeader_1x02_P1.27mm_Vertical,1,Conn_01x02,
+J6,TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal,1,Screw_Terminal_01x03,
+JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,Jumper_2_Open,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,4K7,
+"SW1, SW2",SW_TH_Tactile_Omron_B3F-10xx,2,SW_MEC_5E,
